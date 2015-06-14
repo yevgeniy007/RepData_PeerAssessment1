@@ -326,9 +326,9 @@ In summary this simple exploratory analysis suggests:
 
 **Discussion**
 
-It is **amazing** how much interpretable data is being collected via modern mobile devices these days. The simple analysis in the Reproducibe Rsesearch Assignment of the walking patterns of an  anonymous individual shows the power and the potential richness of data collected these days routinely and the potential analytics and meaningful analyses that can be conducted.  
+It is **amazing** how much interpretable data is being collected via modern mobile devices these days. The simple analysis in the Reproducibe Rsesearch Assignment of the walking patterns of an  anonymous individual shows the power and the potential richness of data collected routinely and the potential meaningful analyses that can be conducted.  
 
-The areas of applications is wide, and can include health, commuting, customer behavior, security. The power of such analyis can increase astronomically if combined with other data, such as shopping activities or any card transactions. Further such data can be analysed across different individuals and grousp and identify correlation or potential social network connections. 
+The areas of applications is wide, and can include health, commuting, customer behavior and marketing, security, intelligence. The power of analyis of data colleted from wearables increases astronomically if combined with other data, such as shopping activities or any other card transactions. Further, such data can be analysed across different individuals and groups and identify correlation or potential social connections. 
 
 
 To me this looks **SCARY**.  
