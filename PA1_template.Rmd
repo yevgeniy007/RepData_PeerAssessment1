@@ -47,7 +47,7 @@ library(dplyr)
  
 ## What is mean total number of steps taken per day?
 
-From the transformed data, we can calculate the mean and the median number of steps per day:
+From the transformed data, we can calculate **the mean** and **the median** number of steps per day:
 
 
 ```{r echo=TRUE}
